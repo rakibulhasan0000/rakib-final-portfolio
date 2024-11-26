@@ -104,7 +104,7 @@ a {
 .overly {
     width: 36%;
     height: 100%;
-    background-image: url('../images/WhatsApp\ Image\ 2024-11-17\ at\ 15.03.55_f9ce2751.jpg');
+    background-image: url('../images/WhatsApp_Image_2024-11-17_at_15.03.55_f9ce2751-removebg-preview.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -645,4 +645,7 @@ a {
     font-weight: 900;
     color: #E5745D;
     
+}
+.education{
+
 }
