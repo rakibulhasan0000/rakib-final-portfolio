@@ -104,7 +104,7 @@ a {
 .overly {
     width: 36%;
     height: 100%;
-    background-image: url('../images/WhatsApp_Image_2024-11-17_at_15.03.55_f9ce2751-removebg-preview.png');
+    background-image: url('../images/WhatsApp\ Image\ 2024-11-17\ at\ 15.03.55_f9ce2751.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -647,5 +647,21 @@ a {
     
 }
 .education{
+text-align: ;
+}
+.edu1{
+    font-size: 25px;
+    font-family: "Jost", sans-serif;
+    text-decoration: underline;
+    color: #E5745D;
+    background: #000;
+    font-weight: 900;
+    text-align: center;
+}
+.higher{
+    font-size: 25px;
+    font-family: "Jost", sans-serif;
 
+    color: #E5745D;
+    font-weight: 900;
 }
